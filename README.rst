@@ -71,4 +71,4 @@ Links
 - `Official Discord Server <https://discord.gg/dN66r3D>`_
 - `Author's Portfolio <https://www.rudranshjoshi.me/>`_
 
-*README.md template taken from discord.py's README.rst*
+*README.rst template taken from discord.py's README.rst*
