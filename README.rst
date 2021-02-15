@@ -59,7 +59,7 @@ Quick Example
 
     mathemagic.factorial(5) # Returns 120 as 5! = 120, returns the factorial of a given number.
 
-    mathemagic.prime(20)  Returns False, as 20 is not a prime number, returns True/False based upon the number is prime or not.
+    mathemagic.prime(20)  # Returns False, as 20 is not a prime number, returns True/False based upon the number is prime or not.
 
 
 You can find more examples in the documentation.
