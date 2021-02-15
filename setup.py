@@ -4,7 +4,7 @@ with open("README.rst", "r") as fh:
     readme = fh.read()
 
 setup(name='mathemagic',
-      version='1.0',
+      version='1.1',
       description='Module containing a lot of general and commonly used mathematical functions.',
       long_description=readme,
       long_description_content_type="text/x-rst",
