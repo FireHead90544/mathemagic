@@ -18,5 +18,4 @@ setup(name='mathemagic',
       license='GNU GPL v3',
       packages=['mathemagic'],
       zip_safe=False,
-      install_requires=['random',
-                        'math'])
+      install_requires=[])
