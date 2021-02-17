@@ -29,10 +29,10 @@ To install the module, you can just run the following command:
 .. code:: sh
 
     # Linux/macOS (Replace python3 with python to install for python2.x)
-    python3 -m pip install -U mathematics
+    python3 -m pip install -U mathemagic
 
     # Windows
-    pip install -U mathematics
+    pip install -U mathemagic
 
 
 To install the development version, do the following:
