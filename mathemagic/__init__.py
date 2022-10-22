@@ -211,4 +211,4 @@ def calculate(expression: str):
         return Exception("EvaluationError: Unable to evaluate the given expression, are you using correct operations?")
 
 
-__version__ = '1.0'
+__version__ = '1.1'
